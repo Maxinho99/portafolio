@@ -1,0 +1,93 @@
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: 'Arial', sans-serif;
+  }
+  
+
+  .navbar {
+    background-color: #343a40;
+  }
+  
+  .navbar-brand, .navbar-nav .nav-link {
+    color: white !important;
+  }
+  
+
+  header {
+    text-align: center;
+    padding: 30px 0;
+    background-color: #f8f9fa;
+  }
+  
+  .card {
+    border: none;
+    text-align: center;
+  }
+  
+
+  #sobre-mi {
+    padding: 30px 0;
+  }
+  
+
+  #experiencias {
+    padding: 30px 0;
+  }
+  
+  .card-body {
+    text-align: center;
+  }
+  
+
+  #habilidades {
+    padding: 30px 0;
+  }
+  
+
+  #contacto {
+    padding: 30px 0;
+    background-color: #f8f9fa;
+  }
+  
+
+  .btn-primary {
+    background-color: #0077b5;
+    border-color: #0077b5;
+  }
+  
+  .btn-primary:hover {
+    background-color: #005783;
+    border-color: #005783;
+  }
+  
+
+  .card img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+
+  h2 {
+    color: #0077b5;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  h3 {
+    color: #343a40;
+  }
+  
+  h4 {
+    color: #343a40;
+  }
+
+img {
+    display: block;
+    max-width: 50%;
+    height: auto;
+}
